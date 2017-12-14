@@ -41,6 +41,12 @@ There are some different type of files that you may come across in each course n
 | Complete course notes.pdf | ✅  🇸🇪  | Rendered version of the same file |
 | Revision notes.md | 📝  🇸🇪  | Revision notes from lectures held in 2017. Requires Typora or any other Markdown & MathJax compatible editor |
 | Revision notes.pdf | 📝  🇸🇪  | Rendered version of the same file |
+| Calculator/PEARSON.8xp | 🏳️  | Program for Texas Instruments calculators for calculating Pearson correlation |
+| Calculator/SPEARMAN.8xp | 🏳️  | Program for Texas Instruments calculators for calculating Spearman correlation |
+| Calculator/SSKATT.8xp | 🏳️  | Program for Texas Instruments calculators for calculating an estimate of the standard deviation |
+| Calculator/SUMXX.8xp | 🏳️  | Program for Texas Instruments calculators for calculating the square sum of a list X |
+| Calculator/SUMYY.8xp | 🏳️  | Program for Texas Instruments calculators for calculating the square sum of a list Y |
+| Calculator/SUMXY.8xp | 🏳️  | Program for Texas Instruments calculators for calculating the square sum of a list XY |
 
 # Purpose of the repository
 <a name="purpose"></a>
